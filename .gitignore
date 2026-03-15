@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model weights / large files (optional)
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Dataset folders (optional if large)
+dataset/
+data/
+
+# Build files
+build/
+dist/
+
+# IDE settings
+.vscode/
+.idea/
