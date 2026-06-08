@@ -5,18 +5,7 @@
 This is a custom dataset built from scratch for camouflaged soldier detection and classification.
 
 The dataset is NOT included in this repository due to size. Access the dataset from kaggle.
-# The following code will only execute
-# successfully when compression is complete
-
-import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("pshaurya028/cam-nocam-soldier-dataset")
-
-print("Path to dataset files:", path)
-
-Or Directly Download
-https://www.kaggle.com/datasets/pshaurya028/cam-nocam-soldier-dataset
+URL: https://www.kaggle.com/datasets/pshaurya028/cam-nocam-soldier-dataset
 ## Structure
 
 ```
